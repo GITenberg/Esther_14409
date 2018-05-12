@@ -15,6 +15,8 @@ creator:
 description: "Esther is a novel by Henry Adams first published in 1884 under the pen\
   \ name \"Frances Snow Compton\".\nThe book was republished in 1938, with an introduction\
   \ by Robert E. Spiller.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14409#Esther
 gutenberg_issued: '2004-12-21'
 gutenberg_type: Text
 identifiers:

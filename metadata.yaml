@@ -1,0 +1,36 @@
+_repo: Esther_14409
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Adams, Henry
+    alias: Adams, Henry Brooks
+    birthdate: 1838
+    deathdate: 1918
+    gutenberg_agent_id: '798'
+    url: http://www.gutenberg.org/2009/agents/798
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Brooks_Adams
+description: "Esther is a novel by Henry Adams first published in 1884 under the pen\
+  \ name \"Frances Snow Compton\".\nThe book was republished in 1938, with an introduction\
+  \ by Robert E. Spiller.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2004-12-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14409'
+  wikidata: Q5401132
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Bildungsromans'
+- !lcc 'PS'
+- !lcsh 'Clergy -- Fiction'
+- !lcsh 'Women painters -- Fiction'
+title: Esther
+url: http://www.gutenberg.org/ebooks/14409
+wikipedia:
+- https://en.wikipedia.org/wiki/Esther_(novel)
